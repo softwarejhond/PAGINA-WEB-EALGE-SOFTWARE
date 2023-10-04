@@ -87,6 +87,17 @@
           </div>
         </div>
       </div>
+      <div class="col-lg-4 col-md-6">
+        <div class="portfolio-box shadow">
+          <img src="images/portfolio/pcExpress.png" alt="portfolio 6 image" title="portfolio 6 picture" class="img-fluid">
+          <div class="portfolio-info">
+            <div class="caption">
+              <h4>PC EXPRESS MEDELLÍN</h4>
+              <p>Soporte empresarial</p>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </section>
